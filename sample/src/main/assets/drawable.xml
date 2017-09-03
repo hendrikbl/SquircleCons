@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017 Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike
+  ~ 4.0 International License. You may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
+  ~ Special thanks to the project contributors and collaborators
+  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
+  -->
+
+<resources>
+
+    <version>1</version>
+
+    <category title="Latest"/>
+    <item drawable="khux"/>
+    <item drawable="kittens"/>
+    <item drawable="komoot"/>
+    <item drawable="lara_croft_go"/>
+    <item drawable="maguss"/>
+    <item drawable="match_land"/>
+    <item drawable="mcdonalds"/>
+    <item drawable="mein_vodafone"/>
+    <item drawable="mellow_dark_ui"/>
+    <item drawable="money_manager"/>
+
+    <category title="System"/>
+
+    <category title="Google Apps"/>
+    <item drawable="google_authenticator"/>
+
+    <category title="Games"/>
+    <item drawable="age_of_2048"/>
+    <item drawable="deus_ex_go"/>
+    <item drawable="disco_zoo"/>
+    <item drawable="grwhq"/>
+    <item drawable="happy_street"/>
+    <item drawable="hitman_go"/>
+    <item drawable="khux"/>
+    <item drawable="kittens"/>
+    <item drawable="lara_croft_go"/>
+    <item drawable="maguss"/>
+    <item drawable="match_land"/>
+    <item drawable="tenten"/>
+
+    <category title="Drawers"/>
+
+    <category title="All"/>
+    <item drawable="adapticons"/>
+    <item drawable="age_of_2048"/>
+    <item drawable="amazon_music"/>
+    <item drawable="amazon_music_gradient"/>
+    <item drawable="arx_control"/>
+    <item drawable="aspire_ux"/>
+    <item drawable="aspire_ux_gradient"/>
+    <item drawable="audible"/>
+    <item drawable="avr_remote"/>
+    <item drawable="avr_remote_gradient"/>
+    <item drawable="blizzard_authenticator"/>
+    <item drawable="bodyweight"/>
+    <item drawable="boost"/>
+    <item drawable="candycons"/>
+    <item drawable="chefkoch"/>
+    <item drawable="codecheck"/>
+    <item drawable="collateral"/>
+    <item drawable="cornerfly"/>
+    <item drawable="davdroid"/>
+    <item drawable="db_navigator"/>
+    <item drawable="deus_ex_go"/>
+    <item drawable="disco_zoo"/>
+    <item drawable="discord"/>
+    <item drawable="ebay_kleinanzeigen"/>
+    <item drawable="egg_inc"/>
+    <item drawable="eon_altar"/>
+    <item drawable="fasthub"/>
+    <item drawable="frame"/>
+    <item drawable="g2a"/>
+    <item drawable="genius"/>
+    <item drawable="google_authenticator"/>
+    <item drawable="grwhq"/>
+    <item drawable="happy_street"/>
+    <item drawable="hitman_go"/>
+    <item drawable="hydro_coach"/>
+    <item drawable="imdb"/>
+    <item drawable="jodel"/>
+    <item drawable="k9_mail"/>
+    <item drawable="keepass2android"/>
+    <item drawable="khux"/>
+    <item drawable="kitchen_stories"/>
+    <item drawable="kittens"/>
+    <item drawable="komoot"/>
+    <item drawable="lara_croft_go"/>
+    <item drawable="maguss"/>
+    <item drawable="match_land"/>
+    <item drawable="mcdonalds"/>
+    <item drawable="mein_vodafone"/>
+    <item drawable="mellow_dark_ui"/>
+    <item drawable="money_manager"/>
+    <item drawable="tenten"/>
+    <item drawable="thirty_days_fit"/>
+
+</resources>

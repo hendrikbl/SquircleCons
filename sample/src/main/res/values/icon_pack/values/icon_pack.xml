@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2017 Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike
+  ~ 4.0 International License. You may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
+  ~ Special thanks to the project contributors and collaborators
+  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- Make sure to put at least 8 icons -->
+    <string-array name="preview">
+        <item>adapticons</item>
+        <item>age_of_2048</item>
+        <item>amazon_music</item>
+        <item>amazon_music_gradient</item>
+        <item>arx_control</item>
+        <item>aspire_ux</item>
+        <item>aspire_ux_gradient</item>
+        <item>audible</item>
+        <item>avr_remote</item>
+        <item>avr_remote_gradient</item>
+        <item>blizzard_authenticator</item>
+        <item>bodyweight</item>
+        <item>boost</item>
+        <item>candycons</item>
+        <item>chefkoch</item>
+        <item>codecheck</item>
+        <item>collateral</item>
+        <item>cornerfly</item>
+        <item>davdroid</item>
+        <item>db_navigator</item>
+        <item>deus_ex_go</item>
+        <item>disco_zoo</item>
+        <item>discord</item>
+        <item>ebay_kleinanzeigen</item>
+        <item>egg_inc</item>
+        <item>eon_altar</item>
+        <item>fasthub</item>
+        <item>frame</item>
+        <item>g2a</item>
+        <item>genius</item>
+        <item>google_authenticator</item>
+        <item>grwhq</item>
+        <item>happy_street</item>
+        <item>hitman_go</item>
+        <item>hydro_coach</item>
+        <item>imdb</item>
+        <item>jodel</item>
+        <item>k9_mail</item>
+        <item>keepass2android</item>
+        <item>khux</item>
+        <item>kitchen_stories</item>
+        <item>kittens</item>
+        <item>komoot</item>
+        <item>lara_croft_go</item>
+        <item>maguss</item>
+        <item>match_land</item>
+        <item>mcdonalds</item>
+        <item>mmein_vodafone</item>
+        <item>mellow_dark_ui</item>
+        <item>minimale</item>
+        <item>money_manager</item>
+        <item>tenten</item>
+        <item>thirty_days_fit</item>
+    </string-array>
+
+    <!-- These sections below are for your "Previews" section -->
+    <!-- These names should match YOUR actual icon names
+    	 the names used below are just for sampling purposes -->
+
+    <!-- Make sure the tabs names are the same as the other arrays -->
+    <string-array name="tabs">
+        <item>latest</item>
+        <item>system</item>
+        <item>google_apps</item>
+        <item>games</item>
+        <item>drawers</item>
+    </string-array>
+
+    <!-- LATEST ICONS -->
+    <!-- All of your Latest icons listed here -->
+    <string-array name="latest">
+        <item>khux</item>
+        <item>kittens</item>
+        <item>komoot</item>
+        <item>lara_croft_go</item>
+        <item>maguss</item>
+        <item>match_land</item>
+        <item>mcdonalds</item>
+        <item>mmein_vodafone</item>
+        <item>mellow_dark_ui</item>
+        <item>minimale</item>
+        <item>money_manager</item>
+    </string-array>
+
+    <!-- SYSTEM ICONS -->
+    <!-- System icons listed here -->
+    <string-array name="system">
+    </string-array>
+
+    <!-- GOOGLE APPS ICONS -->
+    <!-- Google Apps icons are listed here -->
+    <string-array name="google_apps">
+        <item>google_authenticator</item>
+    </string-array>
+
+    <!-- GAMES ICONS -->
+    <!-- Game icons are listed here -->
+    <string-array name="games">
+        <item>age_of_2048</item>
+        <item>deus_ex_go</item>
+        <item>disco_zoo</item>
+        <item>egg_inc</item>
+        <item>eon_altar</item>
+        <item>grwhq</item>
+        <item>happy_street</item>
+        <item>hitman_go</item>
+        <item>khux</item>
+        <item>kittens</item>
+        <item>lara_croft_go</item>
+        <item>maguss</item>
+        <item>match_land</item>
+        <item>tenten</item>
+    </string-array>
+
+    <string-array name="drawers">
+    </string-array>
+
+    <string-array name="icon_pack">
+        <item>adapticons</item>
+        <item>age_of_2048</item>
+        <item>amazon_music</item>
+        <item>amazon_music_gradient</item>
+        <item>arx_control</item>
+        <item>aspire_ux</item>
+        <item>aspire_ux_gradient</item>
+        <item>audible</item>
+        <item>avr_remote</item>
+        <item>avr_remote_gradient</item>
+        <item>blizzard_authenticator</item>
+        <item>bodyweight</item>
+        <item>boost</item>
+        <item>candycons</item>
+        <item>chefkoch</item>
+        <item>codecheck</item>
+        <item>collateral</item>
+        <item>cornerfly</item>
+        <item>davdroid</item>
+        <item>db_navigator</item>
+        <item>deus_ex_go</item>
+        <item>disco_zoo</item>
+        <item>discord</item>
+        <item>ebay_kleinanzeigen</item>
+        <item>egg_inc</item>
+        <item>eon_altar</item>
+        <item>fasthub</item>
+        <item>frame</item>
+        <item>g2a</item>
+        <item>genius</item>
+        <item>google_authenticator</item>
+        <item>grwhq</item>
+        <item>happy_street</item>
+        <item>hitman_go</item>
+        <item>hydro_coach</item>
+        <item>imdb</item>
+        <item>jodel</item>
+        <item>k9_mail</item>
+        <item>keepass2android</item>
+        <item>khux</item>
+        <item>kitchen_stories</item>
+        <item>kittens</item>
+        <item>komoot</item>
+        <item>lara_croft_go</item>
+        <item>maguss</item>
+        <item>match_land</item>
+        <item>mcdonalds</item>
+        <item>mmein_vodafone</item>
+        <item>mellow_dark_ui</item>
+        <item>minimale</item>
+        <item>money_manager</item>
+        <item>tenten</item>
+        <item>thirty_days_fit</item>
+    </string-array>
+
+</resources>
