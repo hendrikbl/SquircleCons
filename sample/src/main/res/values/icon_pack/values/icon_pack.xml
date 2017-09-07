@@ -73,6 +73,19 @@
         <item>mellow_dark_ui</item>
         <item>minimale</item>
         <item>money_manager</item>
+        <item>monospace</item>
+        <item>moonshine</item>
+        <item>night_screen</item>
+        <item>nina</item>
+        <item>nordsee</item>
+        <item>onedrive</item>
+        <item>onedrive_2</item>
+        <item>piano_tiles_2</item>
+        <item>pirate_power</item>
+        <item>pixel_icon_pack</item>
+        <item>quicklyric</item>
+        <item>quizup</item>
+        <item>seriesguide</item>
         <item>tenten</item>
         <item>thirty_days_fit</item>
     </string-array>
@@ -93,17 +106,19 @@
     <!-- LATEST ICONS -->
     <!-- All of your Latest icons listed here -->
     <string-array name="latest">
-        <item>khux</item>
-        <item>kittens</item>
-        <item>komoot</item>
-        <item>lara_croft_go</item>
-        <item>maguss</item>
-        <item>match_land</item>
-        <item>mcdonalds</item>
-        <item>mmein_vodafone</item>
-        <item>mellow_dark_ui</item>
-        <item>minimale</item>
-        <item>money_manager</item>
+        <item>monospace</item>
+        <item>moonshine</item>
+        <item>night_screen</item>
+        <item>nina</item>
+        <item>nordsee</item>
+        <item>onedrive</item>
+        <item>onedrive_2</item>
+        <item>piano_tiles_2</item>
+        <item>pirate_power</item>
+        <item>pixel_icon_pack</item>
+        <item>quicklyric</item>
+        <item>quizup</item>
+        <item>seriesguide</item>
     </string-array>
 
     <!-- SYSTEM ICONS -->
@@ -133,6 +148,9 @@
         <item>lara_croft_go</item>
         <item>maguss</item>
         <item>match_land</item>
+        <item>piano_tiles_2</item>
+        <item>pirate_power</item>
+        <item>quizup</item>
         <item>tenten</item>
     </string-array>
 
@@ -191,6 +209,19 @@
         <item>mellow_dark_ui</item>
         <item>minimale</item>
         <item>money_manager</item>
+        <item>monospace</item>
+        <item>moonshine</item>
+        <item>night_screen</item>
+        <item>nina</item>
+        <item>nordsee</item>
+        <item>onedrive</item>
+        <item>onedrive_2</item>
+        <item>piano_tiles_2</item>
+        <item>pirate_power</item>
+        <item>pixel_icon_pack</item>
+        <item>quicklyric</item>
+        <item>quizup</item>
+        <item>seriesguide</item>
         <item>tenten</item>
         <item>thirty_days_fit</item>
     </string-array>

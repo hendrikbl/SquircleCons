@@ -267,6 +267,66 @@
         name="com.realbyteapps.moneymanagerfree/com.realbyte.money.ui.Intro"
         image="money_manager"/>
 
+    <!-- Monospace -->
+    <AppIcon
+        name="com.underwood.monospace/com.underwood.monospace.library.LibraryActivity"
+        image="monospace"/>
+
+    <!-- Moonshine -->
+    <AppIcon
+        name="nexbit.icons.moonshine/com.natewren.dashboard.SplashScreen"
+        image="moonshine"/>
+
+    <!-- NINA -->
+    <AppIcon
+        name="de.materna.bbk.mobile.app/de.materna.bbk.mobile.app.ui.SplashScreenActivity"
+        image="nina"/>
+
+    <!-- NORDSEE -->
+    <AppIcon
+        name="com.nordsee.de.app/com.qnips.android.SplashActivity"
+        image="nordsee"/>
+
+    <!-- Night Screen -->
+    <AppIcon
+        name="info.papdt.blackblub/info.papdt.blackblub.ui.LaunchActivity"
+        image="night_screen"/>
+
+    <!-- OneDrive -->
+    <AppIcon
+        name="com.microsoft.skydrive/com.microsoft.skydrive.MainActivity"
+        image="onedrive_2"/>
+
+    <!-- Piano Tiles 2 -->
+    <AppIcon
+        name="com.cmplay.tiles2/com.cmplay.tile2.ui.AppActivity"
+        image="piano_tiles_2"/>
+
+    <!-- Pirate Power -->
+    <AppIcon
+        name="com.godzilab.happypirate/com.godzilab.happypirate.Main"
+        image="pirate_power"/>
+
+    <!-- Pixel Icon Pack -->
+    <AppIcon
+        name="com.themezilla.pixelui/com.themezilla.pixelui.activities.SplashActivity"
+        image="pixel_icon_pack"/>
+
+    <!-- QuickLyric -->
+    <AppIcon
+        name="com.geecko.QuickLyric/com.geecko.QuickLyric.MainActivity"
+        image="quicklyric"/>
+
+    <!-- QuizUp -->
+    <AppIcon
+        name="com.quizup.core/com.quizup.ui.client.activity.MainActivity"
+        image="quizup"/>
+
+    <!-- SeriesGuide -->
+    <AppIcon
+        name="com.battlelancer.seriesguide/com.battlelancer.seriesguide.ui.ShowsActivity"
+        image="seriesguide"/>
+
     <!-- 1010! -->
     <AppIcon
         name="com.gramgames.tenten/com.gramgames.activity.UnityPlayerActivity"

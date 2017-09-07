@@ -260,6 +260,66 @@
         class="com.realbyte.money.ui.Intro"
         name="money_manager"/>
 
+    <!-- Monospace -->
+    <item
+        class="com.underwood.monospace.library.LibraryActivity"
+        name="monospace"/>
+
+    <!-- Moonshine -->
+    <item
+        class="com.natewren.dashboard.SplashScreen"
+        name="moonshine"/>
+
+    <!-- NINA -->
+    <item
+        class="de.materna.bbk.mobile.app.ui.SplashScreenActivity"
+        name="nina"/>
+
+    <!-- NORDSEE -->
+    <item
+        class="com.qnips.android.SplashActivity"
+        name="nordsee"/>
+
+    <!-- Night Screen -->
+    <item
+        class="info.papdt.blackblub.ui.LaunchActivity"
+        name="night_screen"/>
+
+    <!-- OneDrive -->
+    <item
+        class="com.microsoft.skydrive.MainActivity"
+        name="onedrive_2"/>
+
+    <!-- Piano Tiles 2 -->
+    <item
+        class="com.cmplay.tile2.ui.AppActivity"
+        name="piano_tiles_2"/>
+
+    <!-- Pirate Power -->
+    <item
+        class="com.godzilab.happypirate.Main"
+        name="pirate_power"/>
+
+    <!-- Pixel Icon Pack -->
+    <item
+        class="com.themezilla.pixelui.activities.SplashActivity"
+        name="pixel_icon_pack"/>
+
+    <!-- QuickLyric -->
+    <item
+        class="com.geecko.QuickLyric.MainActivity"
+        name="quicklyric"/>
+
+    <!-- QuizUp -->
+    <item
+        class="com.quizup.ui.client.activity.MainActivity"
+        name="quizup"/>
+
+    <!-- SeriesGuide -->
+    <item
+        class="com.battlelancer.seriesguide.ui.ShowsActivity"
+        name="seriesguide"/>
+
     <!-- 1010! -->
     <item
         name="tenten"

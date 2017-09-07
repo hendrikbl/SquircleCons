@@ -23,16 +23,19 @@
     <version>1</version>
 
     <category title="Latest"/>
-    <item drawable="khux"/>
-    <item drawable="kittens"/>
-    <item drawable="komoot"/>
-    <item drawable="lara_croft_go"/>
-    <item drawable="maguss"/>
-    <item drawable="match_land"/>
-    <item drawable="mcdonalds"/>
-    <item drawable="mein_vodafone"/>
-    <item drawable="mellow_dark_ui"/>
-    <item drawable="money_manager"/>
+    <item drawable="monospace"/>
+    <item drawable="moonshine"/>
+    <item drawable="night_screen"/>
+    <item drawable="nina"/>
+    <item drawable="nordsee"/>
+    <item drawable="onedrive"/>
+    <item drawable="onedrive_2"/>
+    <item drawable="piano_tiles_2"/>
+    <item drawable="pirate_power"/>
+    <item drawable="pixel_icon_pack"/>
+    <item drawable="quicklyric"/>
+    <item drawable="quizup"/>
+    <item drawable="seriesguide"/>
 
     <category title="System"/>
 
@@ -51,6 +54,9 @@
     <item drawable="lara_croft_go"/>
     <item drawable="maguss"/>
     <item drawable="match_land"/>
+    <item drawable="piano_tiles_2"/>
+    <item drawable="pirate_power"/>
+    <item drawable="quizup"/>
     <item drawable="tenten"/>
 
     <category title="Drawers"/>
@@ -106,6 +112,19 @@
     <item drawable="mein_vodafone"/>
     <item drawable="mellow_dark_ui"/>
     <item drawable="money_manager"/>
+    <item drawable="monospace"/>
+    <item drawable="moonshine"/>
+    <item drawable="night_screen"/>
+    <item drawable="nina"/>
+    <item drawable="nordsee"/>
+    <item drawable="onedrive"/>
+    <item drawable="onedrive_2"/>
+    <item drawable="piano_tiles_2"/>
+    <item drawable="pirate_power"/>
+    <item drawable="pixel_icon_pack"/>
+    <item drawable="quicklyric"/>
+    <item drawable="quizup"/>
+    <item drawable="seriesguide"/>
     <item drawable="tenten"/>
     <item drawable="thirty_days_fit"/>
 

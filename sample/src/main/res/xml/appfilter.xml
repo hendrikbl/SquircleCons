@@ -260,6 +260,66 @@
         component="ComponentInfo{com.realbyteapps.moneymanagerfree/com.realbyte.money.ui.Intro}"
         drawable="money_manager"/>
 
+    <!-- Monospace -->
+    <item
+        component="ComponentInfo{com.underwood.monospace/com.underwood.monospace.library.LibraryActivity}"
+        drawable="monospace"/>
+
+    <!-- Moonshine -->
+    <item
+        component="ComponentInfo{nexbit.icons.moonshine/com.natewren.dashboard.SplashScreen}"
+        drawable="moonshine"/>
+
+    <!-- NINA -->
+    <item
+        component="ComponentInfo{de.materna.bbk.mobile.app/de.materna.bbk.mobile.app.ui.SplashScreenActivity}"
+        drawable="nina"/>
+
+    <!-- NORDSEE -->
+    <item
+        component="ComponentInfo{com.nordsee.de.app/com.qnips.android.SplashActivity}"
+        drawable="nordsee"/>
+
+    <!-- Night Screen -->
+    <item
+        component="ComponentInfo{info.papdt.blackblub/info.papdt.blackblub.ui.LaunchActivity}"
+        drawable="night_screen"/>
+
+    <!-- OneDrive -->
+    <item
+        component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}"
+        drawable="onedrive_2"/>
+
+    <!-- Piano Tiles 2 -->
+    <item
+        component="ComponentInfo{com.cmplay.tiles2/com.cmplay.tile2.ui.AppActivity}"
+        drawable="piano_tiles_2"/>
+
+    <!-- Pirate Power -->
+    <item
+        component="ComponentInfo{com.godzilab.happypirate/com.godzilab.happypirate.Main}"
+        drawable="pirate_power"/>
+
+    <!-- Pixel Icon Pack -->
+    <item
+        component="ComponentInfo{com.themezilla.pixelui/com.themezilla.pixelui.activities.SplashActivity}"
+        drawable="pixel_icon_pack"/>
+
+    <!-- QuickLyric -->
+    <item
+        component="ComponentInfo{com.geecko.QuickLyric/com.geecko.QuickLyric.MainActivity}"
+        drawable="quicklyric"/>
+
+    <!-- QuizUp -->
+    <item
+        component="ComponentInfo{com.quizup.core/com.quizup.ui.client.activity.MainActivity}"
+        drawable="quizup"/>
+
+    <!-- SeriesGuide -->
+    <item
+        component="ComponentInfo{com.battlelancer.seriesguide/com.battlelancer.seriesguide.ui.ShowsActivity}"
+        drawable="seriesguide"/>
+    
     <!-- 1010! -->
     <item
         component="ComponentInfo{com.gramgames.tenten/com.gramgames.activity.UnityPlayerActivity}"
