@@ -3,7 +3,7 @@
 #
 # .gitignore declares what files should be ignored by git
 #
-#    This particular file is a composite of github's Android and Eclipse 
+#    This particular file is a composite of github's Android and Eclipse
 #                          files, along with some custom additions.
 #
 #############################################################################
@@ -39,7 +39,7 @@ local.properties
 # PDT-specific
 .buildpath
 
-# sbteclipse plugin 
+# sbteclipse plugin
 .target
 
 # TeXlipse plugin
@@ -70,7 +70,7 @@ proguard/
 # Other Misc. files
 #############################################################################
 
-# Temp files for KDE and other Editor's 
+# Temp files for KDE and other Editor's
 *~
 
 # Something something
@@ -94,3 +94,11 @@ proguard/
 /captures
 /projectFilesBackup
 >>>>>>> 059150e5bf96ad06afc01e351d926c757ef87a6f
+
+#############################################################################
+# Not needed for Icon Repo
+#############################################################################
+
+gradlew
+gradlew\.bat
+gradle/
