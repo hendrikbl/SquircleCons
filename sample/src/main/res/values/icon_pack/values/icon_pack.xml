@@ -80,14 +80,30 @@
         <item>nordsee</item>
         <item>onedrive</item>
         <item>onedrive_2</item>
+        <item>oversumo</item>
         <item>piano_tiles_2</item>
         <item>pirate_power</item>
         <item>pixel_icon_pack</item>
+        <item>prime_video</item>
         <item>quicklyric</item>
+        <item>quizduell</item>
         <item>quizup</item>
+        <item>retrome_wallpapers</item>
+        <item>runtastic_me</item>
+        <item>runtasty</item>
         <item>seriesguide</item>
+        <item>shuttle_plus</item>
+        <item>signal</item>
+        <item>spiegel_online</item>
+        <item>spiegel_online_2</item>
         <item>tenten</item>
+        <item>termius</item>
+        <item>teslaunread</item>
         <item>thirty_days_fit</item>
+        <item>throwdown</item>
+        <item>ubisoft_club</item>
+        <item>ubisoft_club_2</item>
+        <item>wonderwall</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -106,19 +122,22 @@
     <!-- LATEST ICONS -->
     <!-- All of your Latest icons listed here -->
     <string-array name="latest">
-        <item>monospace</item>
-        <item>moonshine</item>
-        <item>night_screen</item>
-        <item>nina</item>
-        <item>nordsee</item>
-        <item>onedrive</item>
-        <item>onedrive_2</item>
-        <item>piano_tiles_2</item>
-        <item>pirate_power</item>
-        <item>pixel_icon_pack</item>
-        <item>quicklyric</item>
-        <item>quizup</item>
-        <item>seriesguide</item>
+        <item>oversumo</item>
+        <item>prime_video</item>
+        <item>quizduell</item>
+        <item>retrome_wallpapers</item>
+        <item>runtastic_me</item>
+        <item>runtasty</item>
+        <item>shuttle_plus</item>
+        <item>signal</item>
+        <item>spiegel_online</item>
+        <item>spiegel_online_2</item>
+        <item>termius</item>
+        <item>teslaunread</item>
+        <item>throwdown</item>
+        <item>ubisoft_club</item>
+        <item>ubisoft_club_2</item>
+        <item>wonderwall</item>
     </string-array>
 
     <!-- SYSTEM ICONS -->
@@ -150,7 +169,9 @@
         <item>match_land</item>
         <item>piano_tiles_2</item>
         <item>pirate_power</item>
+        <item>quizduell</item>
         <item>quizup</item>
+        <item>throwdown</item>
         <item>tenten</item>
     </string-array>
 
@@ -216,14 +237,30 @@
         <item>nordsee</item>
         <item>onedrive</item>
         <item>onedrive_2</item>
+        <item>oversumo</item>
         <item>piano_tiles_2</item>
         <item>pirate_power</item>
         <item>pixel_icon_pack</item>
+        <item>prime_video</item>
         <item>quicklyric</item>
+        <item>quizduell</item>
         <item>quizup</item>
+        <item>retrome_wallpapers</item>
+        <item>runtastic_me</item>
+        <item>runtasty</item>
         <item>seriesguide</item>
+        <item>shuttle_plus</item>
+        <item>signal</item>
+        <item>spiegel_online</item>
+        <item>spiegel_online_2</item>
         <item>tenten</item>
+        <item>termius</item>
+        <item>teslaunread</item>
         <item>thirty_days_fit</item>
+        <item>throwdown</item>
+        <item>ubisoft_club</item>
+        <item>ubisoft_club_2</item>
+        <item>wonderwall</item>
     </string-array>
 
 </resources>

@@ -170,162 +170,232 @@
     <!-- GRWHQ -->
     <AppIcon
         name="com.ubisoft.grwhq/com.ubisoft.playground.unity.PgUnityActivity"
-        image="grwhq"/>
+        image="grwhq" />
 
     <!-- Happy Street -->
     <AppIcon
         name="com.godzilab.happystreet/com.godzilab.happystreet.Main"
-        image="happy_street"/>
+        image="happy_street" />
 
     <!-- Hitman GO -->
     <AppIcon
         name="com.squareenixmontreal.hitmango/com.squareenixmontreal.armory.ArmoryActivity"
-        image="hitman_go"/>
+        image="hitman_go" />
 
     <!-- Hydro Coach -->
     <AppIcon
         name="com.codium.hydrocoach/com.codium.hydrocoach.ui.MainActivity"
-        image="hydro_coach"/>
+        image="hydro_coach" />
 
     <!-- IMDb -->
     <AppIcon
         name="com.imdb.mobile/com.imdb.mobile.HomeActivity"
-        image="imdb"/>
+        image="imdb" />
 
     <!-- Jodel -->
     <AppIcon
         name="com.tellm.android.app/com.jodelapp.jodelandroidv3.view.Launcher"
-        image="jodel"/>
+        image="jodel" />
 
     <!-- K-9 Mail -->
     <AppIcon
         name="com.fsck.k9/com.fsck.k9.activity.Accounts"
-        image="k-9_mail"/>
+        image="k-9_mail" />
 
     <!-- KHUx -->
     <AppIcon
         name="com.square_enix.android_googleplay.khuxww/org.cocos2dx.cpp.AppActivity"
-        image="khux"/>
+        image="khux" />
 
     <!-- Keepass2Android -->
     <AppIcon
         name="keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass"
-        image="keepass2android"/>
+        image="keepass2android" />
 
     <!-- Kitchen Stories -->
     <AppIcon
         name="com.ajnsnewmedia.kitchenstories/com.ajnsnewmedia.kitchenstories.ui.SplashActivity"
-        image="kitchen_stories"/>
+        image="kitchen_stories" />
 
     <!-- Kittens -->
     <AppIcon
         name="com.explodingkittens.projectbombsquad/com.unity3d.player.UnityPlayerProxyActivity"
-        image="kittens"/>
+        image="kittens" />
 
     <!-- komoot -->
     <AppIcon
         name="de.komoot.android/de.komoot.android.app.InspirationActivity"
-        image="komoot"/>
+        image="komoot" />
 
     <!-- Lara Croft GO -->
     <AppIcon
         name="com.squareenixmontreal.lcgo/com.squareenixmontreal.armory.ArmoryActivity"
-        image="lara_croft_go"/>
+        image="lara_croft_go" />
 
     <!-- Maguss -->
     <AppIcon
         name="com.maguss.maguss/com.unity3d.player.UnityPlayerActivity"
-        image="maguss"/>
+        image="maguss" />
 
     <!-- Match Land -->
     <AppIcon
         name="com.racecat.fantasy/com.prime31.UnityPlayerNativeActivity"
-        image="match_land"/>
+        image="match_land" />
 
     <!-- McDonald's -->
     <AppIcon
         name="de.mcdonalds.mcdonaldsinfoapp/de.mcdonalds.app.view.main.StartActivity"
-        image="mcdonalds"/>
+        image="mcdonalds" />
 
     <!-- Mein Vodafone -->
     <AppIcon
         name="com.appseleration.android.selfcare/com.vis.meinvodafone.view.activity.launch.VfLaunchBaseActivity"
-        image="mein_vodafone"/>
+        image="mein_vodafone" />
 
     <!-- Mellow Dark UI -->
     <AppIcon
         name="com.anticor.mellowdark/com.anticor.mellowdark.activities.SplashActivity"
-        image="mellow_dark_ui"/>
+        image="mellow_dark_ui" />
 
     <!-- Minimale -->
     <AppIcon
         name="com.mowmo.minimale/com.mowmo.minimale.activities.SplashActivity"
-        image="minimale"/>
+        image="minimale" />
 
     <!-- Money Manager -->
     <AppIcon
         name="com.realbyteapps.moneymanagerfree/com.realbyte.money.ui.Intro"
-        image="money_manager"/>
+        image="money_manager" />
 
     <!-- Monospace -->
     <AppIcon
         name="com.underwood.monospace/com.underwood.monospace.library.LibraryActivity"
-        image="monospace"/>
+        image="monospace" />
 
     <!-- Moonshine -->
     <AppIcon
         name="nexbit.icons.moonshine/com.natewren.dashboard.SplashScreen"
-        image="moonshine"/>
+        image="moonshine" />
 
     <!-- NINA -->
     <AppIcon
         name="de.materna.bbk.mobile.app/de.materna.bbk.mobile.app.ui.SplashScreenActivity"
-        image="nina"/>
+        image="nina" />
 
     <!-- NORDSEE -->
     <AppIcon
         name="com.nordsee.de.app/com.qnips.android.SplashActivity"
-        image="nordsee"/>
+        image="nordsee" />
 
     <!-- Night Screen -->
     <AppIcon
         name="info.papdt.blackblub/info.papdt.blackblub.ui.LaunchActivity"
-        image="night_screen"/>
+        image="night_screen" />
 
     <!-- OneDrive -->
     <AppIcon
         name="com.microsoft.skydrive/com.microsoft.skydrive.MainActivity"
-        image="onedrive_2"/>
+        image="onedrive_2" />
+
+    <!-- Oversumo -->
+    <AppIcon
+        name="com.dojomadness.oversumo/com.dojomadness.oversumo.MainActivity"
+        image="oversumo" />
 
     <!-- Piano Tiles 2 -->
     <AppIcon
         name="com.cmplay.tiles2/com.cmplay.tile2.ui.AppActivity"
-        image="piano_tiles_2"/>
+        image="piano_tiles_2" />
 
     <!-- Pirate Power -->
     <AppIcon
         name="com.godzilab.happypirate/com.godzilab.happypirate.Main"
-        image="pirate_power"/>
+        image="pirate_power" />
 
     <!-- Pixel Icon Pack -->
     <AppIcon
         name="com.themezilla.pixelui/com.themezilla.pixelui.activities.SplashActivity"
-        image="pixel_icon_pack"/>
+        image="pixel_icon_pack" />
+
+    <!-- Prime Video -->
+    <AppIcon
+        name="com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity"
+        image="prime_video" />
 
     <!-- QuickLyric -->
     <AppIcon
         name="com.geecko.QuickLyric/com.geecko.QuickLyric.MainActivity"
-        image="quicklyric"/>
+        image="quicklyric" />
+
+    <!-- Quizduell -->
+    <AppIcon
+        name="se.feomedia.quizkampen.de.lite/se.feomedia.quizkampen.act.login.MainActivity"
+        image="quizduell" />
 
     <!-- QuizUp -->
     <AppIcon
         name="com.quizup.core/com.quizup.ui.client.activity.MainActivity"
-        image="quizup"/>
+        image="quizup" />
+
+    <!-- Retrome Wallpapers -->
+    <AppIcon
+        name="com.daviidh.wallpaper.retrome/com.daviidh.wallpaper.retrome.activities.SplashActivity"
+        image="retrome_wallpapers" />
+
+    <!-- Runtastic Me -->
+    <AppIcon
+        name="com.runtastic.android.me.lite/com.runtastic.android.me.activities.MigrationActivity"
+        image="runtastic_me" />
+
+    <!-- Runtasty -->
+    <AppIcon
+        name="com.runtastic.android.runtasty.lite/com.runtastic.android.runtasty.SplashActivity"
+        image="runtasty" />
 
     <!-- SeriesGuide -->
     <AppIcon
         name="com.battlelancer.seriesguide/com.battlelancer.seriesguide.ui.ShowsActivity"
-        image="seriesguide"/>
+        image="seriesguide" />
+
+    <!-- SPIEGEL ONLINE -->
+    <AppIcon
+        name="de.spiegel.android.app.spon/de.spiegel.android.lib.spon.activities.SplashScreenActivity"
+        image="spiegel_online" />
+
+    <!-- Shuttle+ -->
+    <AppIcon
+        name="com.simplecity.amp_pro/com.simplecity.amp_library.ui.activities.MainActivity"
+        image="shuttle_plus" />
+
+    <!-- Signal -->
+    <AppIcon
+        name="org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity"
+        image="signal" />
+
+    <!-- Termius -->
+    <AppIcon
+        name="com.server.auditor.ssh.client/com.server.auditor.ssh.client.navigation.SshNavigationDrawerActivity"
+        image="termius" />
+
+    <!-- TeslaUnread -->
+    <AppIcon
+        name="com.teslacoilsw.notifier/com.teslacoilsw.notifier.NotifierSettings"
+        image="teslaunread" />
+
+    <!-- Throwdown -->
+    <AppIcon
+        name="com.kongregate.mobile.throwdown.google/com.unity3d.player.UnityPlayerNativeActivity"
+        image="throwdown" />
+
+    <!-- Ubisoft Club -->
+    <AppIcon
+        name="com.ubisoft.uplay/com.ubisoft.uplay.MainProxyActivity"
+        image="ubisoft_club" />
+
+    <!-- Wonderwall -->
+    <AppIcon
+        name="com.ignacemaes.wonderwall/com.ignacemaes.wonderwall.activities.MainActivity"
+        image="wonderwall" />
 
     <!-- 1010! -->
     <AppIcon

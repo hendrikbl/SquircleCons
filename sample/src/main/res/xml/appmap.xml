@@ -187,138 +187,208 @@
 
     <!-- Jodel -->
     <item
-        class="com.jodelapp.jodelandroidv3.view.Launcher"
-        name="jodel"/>
+        name="jodel"
+        class="com.jodelapp.jodelandroidv3.view.Launcher" />
 
     <!-- K-9 Mail -->
     <item
-        class="com.fsck.k9.activity.Accounts"
-        name="k9_mail"/>
+        name="k9_mail"
+        class="com.fsck.k9.activity.Accounts" />
 
     <!-- KHUx -->
     <item
-        class="org.cocos2dx.cpp.AppActivity"
-        name="khux"/>
+        name="khux"
+        class="org.cocos2dx.cpp.AppActivity" />
 
     <!-- Keepass2Android -->
     <item
-        class="md5f0702f468598c68ce18586502249fb40.KeePass"
-        name="keepass2android"/>
+        name="keepass2android"
+        class="md5f0702f468598c68ce18586502249fb40.KeePass" />
 
     <!-- Kitchen Stories -->
     <item
-        class="com.ajnsnewmedia.kitchenstories.ui.SplashActivity"
-        name="kitchen_stories"/>
+        name="kitchen_stories"
+        class="com.ajnsnewmedia.kitchenstories.ui.SplashActivity" />
 
     <!-- Kittens -->
     <item
-        class="com.unity3d.player.UnityPlayerProxyActivity"
-        name="kittens"/>
+        name="kittens"
+        class="com.unity3d.player.UnityPlayerProxyActivity" />
 
     <!-- komoot -->
     <item
-        class="de.komoot.android.app.InspirationActivity"
-        name="komoot"/>
+        name="komoot"
+        class="de.komoot.android.app.InspirationActivity" />
 
     <!-- Lara Croft GO -->
     <item
-        class="com.squareenixmontreal.armory.ArmoryActivity"
-        name="lara_croft_go"/>
+        name="lara_croft_go"
+        class="com.squareenixmontreal.armory.ArmoryActivity" />
 
     <!-- Maguss -->
     <item
-        class="com.unity3d.player.UnityPlayerActivity"
-        name="maguss"/>
+        name="maguss"
+        class="com.unity3d.player.UnityPlayerActivity" />
 
     <!-- Match Land -->
     <item
-        class="com.prime31.UnityPlayerNativeActivity"
-        name="match_land"/>
+        name="match_land"
+        class="com.prime31.UnityPlayerNativeActivity" />
 
     <!-- McDonald's -->
     <item
-        class="de.mcdonalds.app.view.main.StartActivity"
-        name="mcdonalds"/>
+        name="mcdonalds"
+        class="de.mcdonalds.app.view.main.StartActivity" />
 
     <!-- Mein Vodafone -->
     <item
-        class="com.vis.meinvodafone.view.activity.launch.VfLaunchBaseActivity"
-        name="mein_vodafone"/>
+        name="mein_vodafone"
+        class="com.vis.meinvodafone.view.activity.launch.VfLaunchBaseActivity" />
 
     <!-- Mellow Dark UI -->
     <item
-        class="com.anticor.mellowdark.activities.SplashActivity"
-        name="mellow_dark_ui"/>
+        name="mellow_dark_ui"
+        class="com.anticor.mellowdark.activities.SplashActivity" />
 
     <!-- Minimale -->
     <item
-        class="com.mowmo.minimale.activities.SplashActivity"
-        name="minimale"/>
+        name="minimale"
+        class="com.mowmo.minimale.activities.SplashActivity" />
 
     <!-- Money Manager -->
     <item
-        class="com.realbyte.money.ui.Intro"
-        name="money_manager"/>
+        name="money_manager"
+        class="com.realbyte.money.ui.Intro" />
 
     <!-- Monospace -->
     <item
-        class="com.underwood.monospace.library.LibraryActivity"
-        name="monospace"/>
+        name="monospace"
+        class="com.underwood.monospace.library.LibraryActivity" />
 
     <!-- Moonshine -->
     <item
-        class="com.natewren.dashboard.SplashScreen"
-        name="moonshine"/>
+        name="moonshine"
+        class="com.natewren.dashboard.SplashScreen" />
 
     <!-- NINA -->
     <item
-        class="de.materna.bbk.mobile.app.ui.SplashScreenActivity"
-        name="nina"/>
+        name="nina"
+        class="de.materna.bbk.mobile.app.ui.SplashScreenActivity" />
 
     <!-- NORDSEE -->
     <item
-        class="com.qnips.android.SplashActivity"
-        name="nordsee"/>
+        name="nordsee"
+        class="com.qnips.android.SplashActivity" />
 
     <!-- Night Screen -->
     <item
-        class="info.papdt.blackblub.ui.LaunchActivity"
-        name="night_screen"/>
+        name="night_screen"
+        class="info.papdt.blackblub.ui.LaunchActivity" />
 
     <!-- OneDrive -->
     <item
-        class="com.microsoft.skydrive.MainActivity"
-        name="onedrive_2"/>
+        name="onedrive_2"
+        class="com.microsoft.skydrive.MainActivity" />
+
+    <!-- Oversumo -->
+    <item
+        name="oversumo"
+        class="com.dojomadness.oversumo.MainActivity" />
 
     <!-- Piano Tiles 2 -->
     <item
-        class="com.cmplay.tile2.ui.AppActivity"
-        name="piano_tiles_2"/>
+        name="piano_tiles_2"
+        class="com.cmplay.tile2.ui.AppActivity" />
 
     <!-- Pirate Power -->
     <item
-        class="com.godzilab.happypirate.Main"
-        name="pirate_power"/>
+        name="pirate_power"
+        class="com.godzilab.happypirate.Main" />
 
     <!-- Pixel Icon Pack -->
     <item
-        class="com.themezilla.pixelui.activities.SplashActivity"
-        name="pixel_icon_pack"/>
+        name="pixel_icon_pack"
+        class="com.themezilla.pixelui.activities.SplashActivity" />
+
+    <!-- Prime Video -->
+    <item
+        name="prime_video"
+        class="com.amazon.avod.thirdpartyclient.LauncherActivity" />
 
     <!-- QuickLyric -->
     <item
-        class="com.geecko.QuickLyric.MainActivity"
-        name="quicklyric"/>
+        name="quicklyric"
+        class="com.geecko.QuickLyric.MainActivity" />
+
+    <!-- Quizduell -->
+    <item
+        name="quizduell"
+        class="se.feomedia.quizkampen.act.login.MainActivity" />
 
     <!-- QuizUp -->
     <item
-        class="com.quizup.ui.client.activity.MainActivity"
-        name="quizup"/>
+        name="quizup"
+        class="com.quizup.ui.client.activity.MainActivity" />
+
+    <!-- Retrome Wallpapers -->
+    <item
+        name="retrome_wallpapers"
+        class="com.daviidh.wallpaper.retrome.activities.SplashActivity" />
+
+    <!-- Runtastic Me -->
+    <item
+        name="runtastic_me"
+        class="com.runtastic.android.me.activities.MigrationActivity" />
+
+    <!-- Runtasty -->
+    <item
+        name="runtasty"
+        class="com.runtastic.android.runtasty.SplashActivity" />
 
     <!-- SeriesGuide -->
     <item
-        class="com.battlelancer.seriesguide.ui.ShowsActivity"
-        name="seriesguide"/>
+        name="seriesguide"
+        class="com.battlelancer.seriesguide.ui.ShowsActivity" />
+
+    <!-- SPIEGEL ONLINE -->
+    <item
+        name="spiegel_online"
+        class="de.spiegel.android.lib.spon.activities.SplashScreenActivity" />
+
+    <!-- Shuttle+ -->
+    <item
+        name="shuttle_plus"
+        class="com.simplecity.amp_library.ui.activities.MainActivity" />
+
+    <!-- Signal -->
+    <item
+        name="signal"
+        class="org.thoughtcrime.securesms.RoutingActivity" />
+
+    <!-- Termius -->
+    <item
+        name="termius"
+        class="com.server.auditor.ssh.client.navigation.SshNavigationDrawerActivity" />
+
+    <!-- TeslaUnread -->
+    <item
+        name="teslaunread"
+        class="com.teslacoilsw.notifier.NotifierSettings" />
+
+    <!-- Throwdown -->
+    <item
+        name="throwdown"
+        class="com.unity3d.player.UnityPlayerNativeActivity" />
+
+    <!-- Ubisoft Club -->
+    <item
+        name="ubisoft_club"
+        class="com.ubisoft.uplay.MainProxyActivity" />
+
+    <!-- Wonderwall -->
+    <item
+        name="wonderwall"
+        class="com.ignacemaes.wonderwall.activities.MainActivity" />
 
     <!-- 1010! -->
     <item
