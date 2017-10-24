@@ -25,6 +25,7 @@ script: ./gradlew clean test
 branches:
   except:
     - gh-pages
+    - icons
 
 notifications:
   email: false
