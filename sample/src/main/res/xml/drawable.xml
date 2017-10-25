@@ -23,30 +23,23 @@
     <version>1</version>
 
     <category title="Latest" />
-    <item drawable="oversumo" />
-    <item drawable="prime_video" />
-    <item drawable="quizduell" />
-    <item drawable="retrome_wallpapers" />
-    <item drawable="runtastic_me" />
-    <item drawable="runtasty" />
-    <item drawable="shuttle_plus" />
-    <item drawable="signal" />
-    <item drawable="spiegel_online" />
-    <item drawable="spiegel_online_2" />
-    <item drawable="termius" />
-    <item drawable="teslaunread" />
-    <item drawable="throwdown" />
+    <item drawable="alto" />
+    <item drawable="backdrops" />
+    <item drawable="candycons" />
+    <item drawable="chrome" />
     <item drawable="ubisoft_club" />
     <item drawable="ubisoft_club_2" />
-    <item drawable="wonderwall" />
+    <item drawable="ubisoft_club_3" />
 
     <category title="System" />
 
     <category title="Google Apps" />
+    <item drawable="chrome" />
     <item drawable="google_authenticator" />
 
     <category title="Games" />
     <item drawable="age_of_2048" />
+    <item drawable="alto" />
     <item drawable="deus_ex_go" />
     <item drawable="disco_zoo" />
     <item drawable="grwhq" />
@@ -69,6 +62,7 @@
     <category title="All" />
     <item drawable="adapticons" />
     <item drawable="age_of_2048" />
+    <item drawable="alto" />
     <item drawable="amazon_music" />
     <item drawable="amazon_music_gradient" />
     <item drawable="arx_control" />
@@ -77,11 +71,14 @@
     <item drawable="audible" />
     <item drawable="avr_remote" />
     <item drawable="avr_remote_gradient" />
+    <item drawable="backdrops" />
     <item drawable="blizzard_authenticator" />
     <item drawable="bodyweight" />
     <item drawable="boost" />
     <item drawable="candycons" />
+    <item drawable="candycons_2" />
     <item drawable="chefkoch" />
+    <item drawable="chrome" />
     <item drawable="codecheck" />
     <item drawable="collateral" />
     <item drawable="cornerfly" />
@@ -147,5 +144,6 @@
     <item drawable="throwdown" />
     <item drawable="ubisoft_club" />
     <item drawable="ubisoft_club_2" />
+    <item drawable="ubisoft_club_3" />
     <item drawable="wonderwall" />
 </resources>

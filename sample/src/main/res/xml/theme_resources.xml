@@ -37,10 +37,15 @@
         name="com.soulgit.age2048/com.unity3d.player.UnityPlayerActivity"
         image="age_of_2048" />
 
+    <!-- Alto -->
+    <AppIcon
+        name="com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity"
+        image="alto"/>
+
     <!-- Amazon Music -->
     <AppIcon
         name="com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity"
-        image="amazon_music_gradient" />
+        image="amazon_music" />
 
     <!-- Arx Control -->
     <AppIcon
@@ -61,6 +66,11 @@
     <AppIcon
         name="com.dmholdings.DenonAVRRemote/com.dmholdings.remoteapp.Startup"
         image="avr_remote" />
+
+    <!-- Backdrops -->
+    <AppIcon
+        name="com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity"
+        image="backdrops"/>
 
     <!-- Blizzard Authenticator -->
     <AppIcon
@@ -86,6 +96,15 @@
     <AppIcon
         name="de.pixelhouse/de.pixelhouse.chefkoch.HomeActivity_"
         image="chefkoch" />
+
+    <AppIcon
+        name="de.pixelhouse/de.pixelhouse.chefkoch.app.splash.SplashActivity"
+        image="chefkoch"/>
+
+    <!-- Chrome -->
+    <AppIcon
+        name="com.android.chrome/com.google.android.apps.chrome.Main"
+        image="chrome"/>
 
     <!-- CodeCheck -->
     <AppIcon

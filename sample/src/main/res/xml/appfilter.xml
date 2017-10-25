@@ -30,10 +30,15 @@
         component="ComponentInfo{com.soulgit.age2048/com.unity3d.player.UnityPlayerActivity}"
         drawable="age_of_2048" />
 
+    <!-- Alto -->
+    <item
+        component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}"
+        drawable="alto"/>
+
     <!-- Amazon Music -->
     <item
         component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity}"
-        drawable="amazon_music_gradient" />
+        drawable="amazon_music" />
 
     <!-- Arx Control -->
     <item
@@ -54,6 +59,11 @@
     <item
         component="ComponentInfo{com.dmholdings.DenonAVRRemote/com.dmholdings.remoteapp.Startup}"
         drawable="avr_remote" />
+
+    <!-- Backdrops -->
+    <item
+        component="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}"
+        drawable="backdrops"/>
 
     <!-- Blizzard Authenticator -->
     <item
@@ -79,6 +89,15 @@
     <item
         component="ComponentInfo{de.pixelhouse/de.pixelhouse.chefkoch.HomeActivity_}"
         drawable="chefkoch" />
+
+    <item
+        component="ComponentInfo{de.pixelhouse/de.pixelhouse.chefkoch.app.splash.SplashActivity}"
+        drawable="chefkoch"/>
+
+    <!-- Chrome -->
+    <item
+        component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
+        drawable="chrome"/>
 
     <!-- CodeCheck -->
     <item

@@ -30,9 +30,14 @@
         name="age_of_2048"
         class="com.unity3d.player.UnityPlayerActivity" />
 
+    <!-- Alto -->
+    <item
+        class="com.prime31.UnityPlayerNativeActivity"
+        name="alto"/>
+
     <!-- Amazon Music -->
     <item
-        name="amazon_music_gradient"
+        name="amazon_music"
         class="com.amazon.mp3.client.activity.LauncherActivity" />
 
     <!-- Arx Control -->
@@ -54,6 +59,11 @@
     <item
         name="avr_remote"
         class="com.dmholdings.remoteapp.Startup" />
+
+    <!-- Backdrops -->
+    <item
+        class="com.backdrops.wallpapers.WelcomeActivity"
+        name="backdrops"/>
 
     <!-- Blizzard Authenticator -->
     <item
@@ -79,6 +89,15 @@
     <item
         name="chefkoch"
         class="de.pixelhouse.chefkoch.HomeActivity_" />
+
+    <item
+        class="de.pixelhouse.chefkoch.app.splash.SplashActivity"
+        name="chefkoch"/>
+
+    <!-- Chrome -->
+    <item
+        class="com.google.android.apps.chrome.Main"
+        name="chrome"/>
 
     <!-- CodeCheck -->
     <item

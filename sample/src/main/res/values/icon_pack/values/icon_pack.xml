@@ -24,6 +24,7 @@
     <string-array name="preview">
         <item>adapticons</item>
         <item>age_of_2048</item>
+        <item>alto</item>
         <item>amazon_music</item>
         <item>amazon_music_gradient</item>
         <item>arx_control</item>
@@ -32,11 +33,14 @@
         <item>audible</item>
         <item>avr_remote</item>
         <item>avr_remote_gradient</item>
+        <item>backdrops</item>
         <item>blizzard_authenticator</item>
         <item>bodyweight</item>
         <item>boost</item>
         <item>candycons</item>
+        <item>candycons_2</item>
         <item>chefkoch</item>
+        <item>chrome</item>
         <item>codecheck</item>
         <item>collateral</item>
         <item>cornerfly</item>
@@ -103,6 +107,7 @@
         <item>throwdown</item>
         <item>ubisoft_club</item>
         <item>ubisoft_club_2</item>
+        <item>ubisoft_club_3</item>
         <item>wonderwall</item>
     </string-array>
 
@@ -122,22 +127,13 @@
     <!-- LATEST ICONS -->
     <!-- All of your Latest icons listed here -->
     <string-array name="latest">
-        <item>oversumo</item>
-        <item>prime_video</item>
-        <item>quizduell</item>
-        <item>retrome_wallpapers</item>
-        <item>runtastic_me</item>
-        <item>runtasty</item>
-        <item>shuttle_plus</item>
-        <item>signal</item>
-        <item>spiegel_online</item>
-        <item>spiegel_online_2</item>
-        <item>termius</item>
-        <item>teslaunread</item>
-        <item>throwdown</item>
+        <item>alto</item>
+        <item>backdrops</item>
+        <item>candycons</item>
+        <item>chrome</item>
         <item>ubisoft_club</item>
         <item>ubisoft_club_2</item>
-        <item>wonderwall</item>
+        <item>ubisoft_club_3</item>
     </string-array>
 
     <!-- SYSTEM ICONS -->
@@ -148,6 +144,7 @@
     <!-- GOOGLE APPS ICONS -->
     <!-- Google Apps icons are listed here -->
     <string-array name="google_apps">
+        <item>chrome</item>
         <item>google_authenticator</item>
     </string-array>
 
@@ -155,6 +152,7 @@
     <!-- Game icons are listed here -->
     <string-array name="games">
         <item>age_of_2048</item>
+        <item>alto</item>
         <item>deus_ex_go</item>
         <item>disco_zoo</item>
         <item>egg_inc</item>
@@ -181,6 +179,7 @@
     <string-array name="icon_pack">
         <item>adapticons</item>
         <item>age_of_2048</item>
+        <item>alto</item>
         <item>amazon_music</item>
         <item>amazon_music_gradient</item>
         <item>arx_control</item>
@@ -189,11 +188,14 @@
         <item>audible</item>
         <item>avr_remote</item>
         <item>avr_remote_gradient</item>
+        <item>backdrops</item>
         <item>blizzard_authenticator</item>
         <item>bodyweight</item>
         <item>boost</item>
         <item>candycons</item>
+        <item>candycons_2</item>
         <item>chefkoch</item>
+        <item>chrome</item>
         <item>codecheck</item>
         <item>collateral</item>
         <item>cornerfly</item>
@@ -260,6 +262,7 @@
         <item>throwdown</item>
         <item>ubisoft_club</item>
         <item>ubisoft_club_2</item>
+        <item>ubisoft_club_3</item>
         <item>wonderwall</item>
     </string-array>
 

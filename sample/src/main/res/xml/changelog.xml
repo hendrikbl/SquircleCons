@@ -20,5 +20,8 @@
 
 <resources>
     <version title="New:"/>
-    <item text="Added 16 new icons."/>
+    <item text="Added 3 new icons."/>
+    <version title="Updated:"/>
+    <item text="Added shadows"/>
+    <item text="Updated some icons"/>
 </resources>
