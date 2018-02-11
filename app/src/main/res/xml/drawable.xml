@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017 Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike
+  ~ 4.0 International License. You may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
+  ~ Special thanks to the project contributors and collaborators
+  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
+  -->
+
+<resources>
+
+    <version>1</version>
+
+    <category title="Latest" />
+    <item drawable="alto" />
+    <item drawable="backdrops" />
+    <item drawable="candycons" />
+    <item drawable="chrome" />
+    <item drawable="ubisoft_club" />
+    <item drawable="ubisoft_club_2" />
+    <item drawable="ubisoft_club_3" />
+
+    <category title="System" />
+
+    <category title="Google Apps" />
+    <item drawable="chrome" />
+    <item drawable="google_authenticator" />
+
+    <category title="Games" />
+    <item drawable="age_of_2048" />
+    <item drawable="alto" />
+    <item drawable="deus_ex_go" />
+    <item drawable="disco_zoo" />
+    <item drawable="grwhq" />
+    <item drawable="happy_street" />
+    <item drawable="hitman_go" />
+    <item drawable="khux" />
+    <item drawable="kittens" />
+    <item drawable="lara_croft_go" />
+    <item drawable="maguss" />
+    <item drawable="match_land" />
+    <item drawable="piano_tiles_2" />
+    <item drawable="pirate_power" />
+    <item drawable="quizduell" />
+    <item drawable="quizup" />
+    <item drawable="tenten" />
+    <item drawable="throwdown" />
+
+    <category title="Drawers" />
+
+    <category title="All" />
+    <item drawable="adapticons" />
+    <item drawable="age_of_2048" />
+    <item drawable="alto" />
+    <item drawable="amazon_music" />
+    <item drawable="amazon_music_gradient" />
+    <item drawable="arx_control" />
+    <item drawable="aspire_ux" />
+    <item drawable="aspire_ux_gradient" />
+    <item drawable="audible" />
+    <item drawable="avr_remote" />
+    <item drawable="avr_remote_gradient" />
+    <item drawable="backdrops" />
+    <item drawable="blizzard_authenticator" />
+    <item drawable="bodyweight" />
+    <item drawable="boost" />
+    <item drawable="candycons" />
+    <item drawable="candycons_2" />
+    <item drawable="chefkoch" />
+    <item drawable="chrome" />
+    <item drawable="codecheck" />
+    <item drawable="collateral" />
+    <item drawable="cornerfly" />
+    <item drawable="davdroid" />
+    <item drawable="db_navigator" />
+    <item drawable="deus_ex_go" />
+    <item drawable="disco_zoo" />
+    <item drawable="discord" />
+    <item drawable="ebay_kleinanzeigen" />
+    <item drawable="egg_inc" />
+    <item drawable="eon_altar" />
+    <item drawable="fasthub" />
+    <item drawable="frame" />
+    <item drawable="g2a" />
+    <item drawable="genius" />
+    <item drawable="google_authenticator" />
+    <item drawable="grwhq" />
+    <item drawable="happy_street" />
+    <item drawable="hitman_go" />
+    <item drawable="hydro_coach" />
+    <item drawable="imdb" />
+    <item drawable="jodel" />
+    <item drawable="k9_mail" />
+    <item drawable="keepass2android" />
+    <item drawable="khux" />
+    <item drawable="kitchen_stories" />
+    <item drawable="kittens" />
+    <item drawable="komoot" />
+    <item drawable="lara_croft_go" />
+    <item drawable="maguss" />
+    <item drawable="match_land" />
+    <item drawable="mcdonalds" />
+    <item drawable="mein_vodafone" />
+    <item drawable="mellow_dark_ui" />
+    <item drawable="money_manager" />
+    <item drawable="monospace" />
+    <item drawable="moonshine" />
+    <item drawable="night_screen" />
+    <item drawable="nina" />
+    <item drawable="nordsee" />
+    <item drawable="onedrive" />
+    <item drawable="onedrive_2" />
+    <item drawable="oversumo" />
+    <item drawable="piano_tiles_2" />
+    <item drawable="pirate_power" />
+    <item drawable="pixel_icon_pack" />
+    <item drawable="prime_video" />
+    <item drawable="quicklyric" />
+    <item drawable="quizduell" />
+    <item drawable="quizup" />
+    <item drawable="retrome_wallpapers" />
+    <item drawable="runtastic_me" />
+    <item drawable="runtasty" />
+    <item drawable="seriesguide" />
+    <item drawable="shuttle_plus" />
+    <item drawable="signal" />
+    <item drawable="spiegel_online" />
+    <item drawable="spiegel_online_2" />
+    <item drawable="tenten" />
+    <item drawable="termius" />
+    <item drawable="teslaunread" />
+    <item drawable="thirty_days_fit" />
+    <item drawable="throwdown" />
+    <item drawable="ubisoft_club" />
+    <item drawable="ubisoft_club_2" />
+    <item drawable="ubisoft_club_3" />
+    <item drawable="wonderwall" />
+</resources>

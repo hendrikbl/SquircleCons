@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2017 Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike
+  ~ 4.0 International License. You may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
+  ~ Special thanks to the project contributors and collaborators
+  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
+  -->
+
+<appmap>
+
+    <!-- Adapticons -->
+    <item
+        name="adapticons"
+        class="pl.damianpiwowarski.adapticons.MainActivity_" />
+
+    <!-- Age of 2048 -->
+    <item
+        name="age_of_2048"
+        class="com.unity3d.player.UnityPlayerActivity" />
+
+    <!-- Alto -->
+    <item
+        class="com.prime31.UnityPlayerNativeActivity"
+        name="alto"/>
+
+    <!-- Amazon Music -->
+    <item
+        name="amazon_music"
+        class="com.amazon.mp3.client.activity.LauncherActivity" />
+
+    <!-- Arx Control -->
+    <item
+        name="arx_control"
+        class="com.logitech.gaming.arxcontrolapp.ConnectionActivity" />
+
+    <!-- Aspire UX -->
+    <item
+        name="aspire_ux_gradient"
+        class="com.aspireux.iconpack.activities.SplashActivity" />
+
+    <!-- Audible -->
+    <item
+        name="audible"
+        class="com.audible.application.SplashScreen" />
+
+    <!-- AVR Remote -->
+    <item
+        name="avr_remote"
+        class="com.dmholdings.remoteapp.Startup" />
+
+    <!-- Backdrops -->
+    <item
+        class="com.backdrops.wallpapers.WelcomeActivity"
+        name="backdrops"/>
+
+    <!-- Blizzard Authenticator -->
+    <item
+        name="blizzard_authenticator"
+        class="com.blizzard.bma.ui.welcome.SplashActivity" />
+
+    <!-- Bodyweight -->
+    <item
+        name="bodyweight"
+        class="com.freeletics.activities.StartActivity" />
+
+    <!-- Boost -->
+    <item
+        name="boost"
+        class="com.rubenmayayo.reddit.ui.submissions.subreddit.MainActivity" />
+
+    <!-- CandyCons -->
+    <item
+        name="candycons"
+        class="com.zavukodlak.candycons.HomeActivity" />
+
+    <!-- Chefkoch -->
+    <item
+        name="chefkoch"
+        class="de.pixelhouse.chefkoch.HomeActivity_" />
+
+    <item
+        class="de.pixelhouse.chefkoch.app.splash.SplashActivity"
+        name="chefkoch"/>
+
+    <!-- Chrome -->
+    <item
+        class="com.google.android.apps.chrome.Main"
+        name="chrome"/>
+
+    <!-- CodeCheck -->
+    <item
+        name="codecheck"
+        class="info.codecheck.android.ui.MainActivity" />
+
+    <!-- Collateral -->
+    <item
+        name="collateral"
+        class="com.gpvargas.collateral.CollateralActivity" />
+
+    <!-- Cornerfly -->
+    <item
+        name="cornerfly"
+        class="com.flyperinc.cornerfly.activity.Loading" />
+
+    <!-- DAVdroid -->
+    <item
+        name="davdroid"
+        class="at.bitfire.davdroid.ui.AccountsActivity" />
+
+    <!-- DB Navigator -->
+    <item
+        name="db_navigator"
+        class="de.bahn.dbtickets.ui.DBNavLauncherActivity" />
+
+    <!-- Deus Ex GO -->
+    <item
+        name="deus_ex_go"
+        class="com.squareenixmontreal.armory.ArmoryActivity" />
+
+    <!-- Disco Zoo -->
+    <item
+        name="disco_zoo"
+        class="com.unity3d.player.UnityPlayerActivity" />
+
+    <!-- Discord -->
+    <item
+        name="discord"
+        class="com.discord.screens.ScreenAux$Main" />
+
+    <!-- eBay Kleinanzeigen -->
+    <item
+        name="ebay_kleinanzeigen"
+        class="ebk.home.HomeActivity" />
+
+    <!-- Egg, Inc. -->
+    <item
+        name="egg_inc"
+        class="com.auxbrain.egginc.EggIncActivity" />
+
+    <!-- Eon Altar -->
+    <item
+        name="eon_altar"
+        class="com.unity3d.player.UnityPlayerNativeActivity" />
+
+    <!-- FastHub -->
+    <item
+        name="fasthub"
+        class="com.fastaccess.ui.modules.main.donation.CheckPurchaseActivity" />
+
+    <!-- Frame -->
+    <item
+        name="frame"
+        class="com.cwfei.frame.activity.MainActivity" />
+
+    <!-- G2A -->
+    <item
+        name="g2a"
+        class="com.g2a.marketplace.views.StartingActivity" />
+
+    <!-- Genius -->
+    <item
+        name="genius"
+        class="com.genius.android.MainActivity" />
+
+    <!-- Google Authenticator -->
+    <item
+        name="google_authenticator1"
+        class="com.google.android.apps.authenticator.AuthenticatorActivity" />
+
+    <!-- GRWHQ -->
+    <item
+        name="grwhq"
+        class="com.ubisoft.playground.unity.PgUnityActivity" />
+
+    <!-- Happy Street -->
+    <item
+        name="happy_street"
+        class="com.godzilab.happystreet.Main" />
+
+    <!-- Hitman GO -->
+    <item
+        name="hitman_go"
+        class="com.squareenixmontreal.armory.ArmoryActivity" />
+
+    <!-- Hydro Coach -->
+    <item
+        name="hydro_coach"
+        class="com.codium.hydrocoach.ui.MainActivity" />
+
+    <!-- IMDb -->
+    <item
+        name="imdb"
+        class="com.imdb.mobile.HomeActivity" />
+
+    <!-- Jodel -->
+    <item
+        name="jodel"
+        class="com.jodelapp.jodelandroidv3.view.Launcher" />
+
+    <!-- K-9 Mail -->
+    <item
+        name="k9_mail"
+        class="com.fsck.k9.activity.Accounts" />
+
+    <!-- KHUx -->
+    <item
+        name="khux"
+        class="org.cocos2dx.cpp.AppActivity" />
+
+    <!-- Keepass2Android -->
+    <item
+        name="keepass2android"
+        class="md5f0702f468598c68ce18586502249fb40.KeePass" />
+
+    <!-- Kitchen Stories -->
+    <item
+        name="kitchen_stories"
+        class="com.ajnsnewmedia.kitchenstories.ui.SplashActivity" />
+
+    <!-- Kittens -->
+    <item
+        name="kittens"
+        class="com.unity3d.player.UnityPlayerProxyActivity" />
+
+    <!-- komoot -->
+    <item
+        name="komoot"
+        class="de.komoot.android.app.InspirationActivity" />
+
+    <!-- Lara Croft GO -->
+    <item
+        name="lara_croft_go"
+        class="com.squareenixmontreal.armory.ArmoryActivity" />
+
+    <!-- Maguss -->
+    <item
+        name="maguss"
+        class="com.unity3d.player.UnityPlayerActivity" />
+
+    <!-- Match Land -->
+    <item
+        name="match_land"
+        class="com.prime31.UnityPlayerNativeActivity" />
+
+    <!-- McDonald's -->
+    <item
+        name="mcdonalds"
+        class="de.mcdonalds.app.view.main.StartActivity" />
+
+    <!-- Mein Vodafone -->
+    <item
+        name="mein_vodafone"
+        class="com.vis.meinvodafone.view.activity.launch.VfLaunchBaseActivity" />
+
+    <!-- Mellow Dark UI -->
+    <item
+        name="mellow_dark_ui"
+        class="com.anticor.mellowdark.activities.SplashActivity" />
+
+    <!-- Minimale -->
+    <item
+        name="minimale"
+        class="com.mowmo.minimale.activities.SplashActivity" />
+
+    <!-- Money Manager -->
+    <item
+        name="money_manager"
+        class="com.realbyte.money.ui.Intro" />
+
+    <!-- Monospace -->
+    <item
+        name="monospace"
+        class="com.underwood.monospace.library.LibraryActivity" />
+
+    <!-- Moonshine -->
+    <item
+        name="moonshine"
+        class="com.natewren.dashboard.SplashScreen" />
+
+    <!-- NINA -->
+    <item
+        name="nina"
+        class="de.materna.bbk.mobile.app.ui.SplashScreenActivity" />
+
+    <!-- NORDSEE -->
+    <item
+        name="nordsee"
+        class="com.qnips.android.SplashActivity" />
+
+    <!-- Night Screen -->
+    <item
+        name="night_screen"
+        class="info.papdt.blackblub.ui.LaunchActivity" />
+
+    <!-- OneDrive -->
+    <item
+        name="onedrive_2"
+        class="com.microsoft.skydrive.MainActivity" />
+
+    <!-- Oversumo -->
+    <item
+        name="oversumo"
+        class="com.dojomadness.oversumo.MainActivity" />
+
+    <!-- Piano Tiles 2 -->
+    <item
+        name="piano_tiles_2"
+        class="com.cmplay.tile2.ui.AppActivity" />
+
+    <!-- Pirate Power -->
+    <item
+        name="pirate_power"
+        class="com.godzilab.happypirate.Main" />
+
+    <!-- Pixel Icon Pack -->
+    <item
+        name="pixel_icon_pack"
+        class="com.themezilla.pixelui.activities.SplashActivity" />
+
+    <!-- Prime Video -->
+    <item
+        name="prime_video"
+        class="com.amazon.avod.thirdpartyclient.LauncherActivity" />
+
+    <!-- QuickLyric -->
+    <item
+        name="quicklyric"
+        class="com.geecko.QuickLyric.MainActivity" />
+
+    <!-- Quizduell -->
+    <item
+        name="quizduell"
+        class="se.feomedia.quizkampen.act.login.MainActivity" />
+
+    <!-- QuizUp -->
+    <item
+        name="quizup"
+        class="com.quizup.ui.client.activity.MainActivity" />
+
+    <!-- Retrome Wallpapers -->
+    <item
+        name="retrome_wallpapers"
+        class="com.daviidh.wallpaper.retrome.activities.SplashActivity" />
+
+    <!-- Runtastic Me -->
+    <item
+        name="runtastic_me"
+        class="com.runtastic.android.me.activities.MigrationActivity" />
+
+    <!-- Runtasty -->
+    <item
+        name="runtasty"
+        class="com.runtastic.android.runtasty.SplashActivity" />
+
+    <!-- SeriesGuide -->
+    <item
+        name="seriesguide"
+        class="com.battlelancer.seriesguide.ui.ShowsActivity" />
+
+    <!-- SPIEGEL ONLINE -->
+    <item
+        name="spiegel_online"
+        class="de.spiegel.android.lib.spon.activities.SplashScreenActivity" />
+
+    <!-- Shuttle+ -->
+    <item
+        name="shuttle_plus"
+        class="com.simplecity.amp_library.ui.activities.MainActivity" />
+
+    <!-- Signal -->
+    <item
+        name="signal"
+        class="org.thoughtcrime.securesms.RoutingActivity" />
+
+    <!-- Termius -->
+    <item
+        name="termius"
+        class="com.server.auditor.ssh.client.navigation.SshNavigationDrawerActivity" />
+
+    <!-- TeslaUnread -->
+    <item
+        name="teslaunread"
+        class="com.teslacoilsw.notifier.NotifierSettings" />
+
+    <!-- Throwdown -->
+    <item
+        name="throwdown"
+        class="com.unity3d.player.UnityPlayerNativeActivity" />
+
+    <!-- Ubisoft Club -->
+    <item
+        name="ubisoft_club"
+        class="com.ubisoft.uplay.MainProxyActivity" />
+
+    <!-- Wonderwall -->
+    <item
+        name="wonderwall"
+        class="com.ignacemaes.wonderwall.activities.MainActivity" />
+
+    <!-- 1010! -->
+    <item
+        name="tenten"
+        class="com.gramgames.activity.UnityPlayerActivity" />
+
+    <!-- 30 Days Fit -->
+    <item
+        name="thirty_days_fit"
+        class="com.popularapp.thirtydayfitnesschallenge.activity.StartActivity" />
+
+</appmap>

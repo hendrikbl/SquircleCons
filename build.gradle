@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2017 Jahir Fiquitiva
+ * Copyright (c) 2018. Jahir Fiquitiva
  *
  * Licensed under the CreativeCommons Attribution-ShareAlike
  * 4.0 International License. You may not use this file except in compliance
@@ -12,21 +12,23 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- *
- * Special thanks to the project contributors and collaborators
- * 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
  */
-
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
+apply from: './dependencies.gradle'
 
 buildscript {
+    apply from: './dependencies.gradle'
+
     repositories {
+        google()
         jcenter()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
     }
+
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.3.3'
-        // TODO: Remove comment marks if you want to implement Firebase Notifications
-        // classpath 'com.google.gms:google-services:3.0.0'
+        classpath gradlePlugins.android
+        classpath gradlePlugins.kotlin
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
@@ -35,7 +37,9 @@ buildscript {
 
 allprojects {
     repositories {
+        google()
         jcenter()
+        mavenCentral()
         maven { url 'https://jitpack.io' }
     }
 }

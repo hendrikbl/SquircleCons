@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #############################################################################
 #
 # .gitignore declares what files should be ignored by git
@@ -50,9 +49,8 @@ local.properties
 #############################################################################
 
 # Built application files
-*.ap_
-.apk
 *.apk
+#*.ap_
 
 # Generated files
 gen/
@@ -73,24 +71,21 @@ proguard/
 # Temp files for KDE and other Editor's 
 *~
 
-# Something something
-*/values/jahir.xml
-
 #############################################################################
 # Android Studio related files
 #############################################################################
 
-.idea/
+!/.idea/copyright
+/.idea/dictionaries
+/.idea/inspectionProfiles
+/.idea/libraries
+/.idea/markdown-navigator
+/.idea/*.xml
 #gradle.properties
 *.iml
 =======
-*.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
 .DS_Store
-/build
 /captures
 /projectFilesBackup
->>>>>>> 059150e5bf96ad06afc01e351d926c757ef87a6f
+/reports
+/report
